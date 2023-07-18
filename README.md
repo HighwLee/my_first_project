@@ -18,3 +18,6 @@ This is my first repository
 
 本地做出修改
 远程做出修改
+
+试试pull
+
