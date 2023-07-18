@@ -11,3 +11,9 @@ This is my first repository
 
 本地第3个修改
 远程第4个修改
+
+
+
+
+
+尝试合并
