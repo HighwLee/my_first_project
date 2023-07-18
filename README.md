@@ -18,7 +18,6 @@ This is my first repository
 
 
 尝试合并
-=======
 远程做出第5个修改
 
 本地做出修改
